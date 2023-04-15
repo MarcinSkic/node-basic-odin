@@ -1,6 +1,6 @@
 # Basic Informational Site
 
-Very simple site created to learn managing requests with vanilla nodejs
+Very simple site created to learn managing requests with vanilla nodejs. [Live Demo](https://node-basic-odin.marcinskic.repl.co)
 
 ---
 
