@@ -1,6 +1,6 @@
 # Basic Informational Site
 
-Very simple site created to learn managing requests with vanilla nodejs. [Live Demo](https://node-basic-odin.marcinskic.repl.co)
+Very simple site rewritten to use express instead of vanilla nodejs. [Live Demo](https://node-basic-odin.marcinskic.repl.co)
 
 ---
 
@@ -8,11 +8,13 @@ Very simple site created to learn managing requests with vanilla nodejs. [Live D
 
 ### Used technologies
 
+[<picture align="left" style="padding-right:10px;"> <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/33003089/227041204-71a593b5-395e-4de9-82ff-21f6113c2c8a.svg"><img align="left" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" width="26px"></picture>][express]
 [<img align="left" alt="Vite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>][nodejs]
 [<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />][ts]
 [<img align="left" alt="html" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>][html]
 
 [html]: https://en.wikipedia.org/wiki/HTML
+[express]: https://expressjs.com
 [ts]: https://www.typescriptlang.org
 [scss]: https://sass-lang.com
 [nodejs]: https://nodejs.org/en
